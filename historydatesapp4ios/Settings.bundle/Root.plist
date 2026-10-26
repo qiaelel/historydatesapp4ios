@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>StringsTable</key>
+    <string>Root</string>
+    <key>PreferenceItems</key>
+    <array>
+        <dict>
+            <key>Type</key>
+            <string>PSGroupSpecifier</string>
+            <key>Title</key>
+            <string>Данные приложения</string>
+        </dict>
+        <dict>
+            <key>Type</key>
+            <string>PSToggleSwitchSpecifier</string>
+            <key>Title</key>
+            <string>Очистить кэш при следующем запуске</string>
+            <key>Description</key>
+            <string>Внимание! Пункт удалит вместе с кэшем и все сохраненные страницы.</string>
+            <key>Key</key>
+            <string>clear_cache_preference</string>
+            <key>DefaultValue</key>
+            <false/>
+        </dict>
+    </array>
+</dict>
+</plist>
