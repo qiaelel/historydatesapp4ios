@@ -1,6 +1,7 @@
 # historydatesapp4ios
 Проект содержащий даты по истории теперь для iOS
 v.1.0 RC2
+Приложение построено на SwiftUI и WebView
 
 # Скриншоты
 <img width="292" height="633" alt="Screenshot 2026-10-26 at 22 18 18" src="https://github.com/user-attachments/assets/4d9b61e8-2ef6-4819-a8d7-c9c84336a6b1" />
