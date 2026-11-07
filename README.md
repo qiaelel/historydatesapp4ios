@@ -1,6 +1,6 @@
 # historydatesapp4ios
 Проект содержащий даты по истории теперь для iOS <br>
-v.1.0 RC2 <br>
+v.1.0 <br>
 Приложение построено на SwiftUI и WebView
 
 # Скриншоты
