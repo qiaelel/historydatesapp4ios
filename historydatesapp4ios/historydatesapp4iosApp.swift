@@ -2,7 +2,7 @@
 //  historydatesapp4iosApp.swift
 //  historydatesapp4ios
 //
-//  Created by Ростислав on 25.10.2026.
+//  Created by qiaelel on 25.10.2026.
 //
 
 import SwiftUI
